@@ -1,7 +1,5 @@
 # sql_join_ic
 
-## Simple Queries
-
 ### Table creation code
 ```
 CREATE TABLE Pieces (
