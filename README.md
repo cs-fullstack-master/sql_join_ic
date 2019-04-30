@@ -63,3 +63,9 @@ INSERT INTO Provides(Piece, Provider, Price) VALUES(4,'RBT',7);
 2. Select the name of pieces provided by provider with code "HAL".
 
 3. For each piece, find the most expensive offering of that piece and include the piece name, provider name, and price (note that there could be two providers who supply the same piece at the most expensive price).
+
+4. Find the least expensive piece and provide the provider, name, and price.
+
+5. Find the average price of all products provided per provider.
+
+6. Find the average price of each product.
